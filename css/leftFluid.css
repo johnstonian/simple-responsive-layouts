@@ -1,0 +1,17 @@
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+body { margin: 0; }
+
+.columnsContainer { position: relative; margin: .5em; }
+
+.leftColumn, .rightColumn {  border: 1px solid  #ccc; padding: 1.25em; }
+
+.leftColumn { margin-bottom: .5em; }
+
+@media screen and (min-width: 47.5em ) {
+  .leftColumn { margin-right: 19.5em; }
+
+	.rightColumn { position: absolute; top: 0; right: 0; width: 18.75em; }   
+}
