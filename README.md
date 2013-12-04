@@ -9,4 +9,4 @@ Used for learning mobile first and progressive enhancement methodologies.
 The list of layouts will continue to grow as needed.
 
 TODO: 
-* update respond.min.js with latest version
+* add more example layouts
