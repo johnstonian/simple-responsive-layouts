@@ -1,8 +1,10 @@
 #Simple Responsive Layouts
 
-**Update: ** Footer section added to examples.
+**Update:** Footer section added to examples.
 
 See examples in the [demo](http://johnstonianera.com/demos/simpleResponsiveLayouts/)
+
+Accompanying article about building responsive layouts: <http://www.johnstonianera.com/responsive-two-column-layout/>
 
 Repository of simple responsive layouts.
 
