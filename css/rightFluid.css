@@ -4,9 +4,9 @@
 
 body { margin: 0; }
 
-.columnsContainer { position: relative; margin: .5em; }
+.columnsContainer, footer { position: relative; margin: .5em; }
 
-.rightColumn, .leftColumn {  border: 1px solid  #ccc; padding: 1.25em; }
+.rightColumn, .leftColumn, footer {  border: 1px solid  #ccc; padding: 1.25em; }
 
 .leftColumn { margin-bottom: .5em; }
 

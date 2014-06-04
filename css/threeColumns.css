@@ -4,9 +4,9 @@
 
 body { margin: 0; }
 
-.columnsContainer { position: relative; margin: .5em; }
+.columnsContainer, footer { position: relative; margin: .5em; }
 
-.leftColumn, .rightColumn, .sideNav {  border: 1px solid  #ccc; padding: 1.25em;  }
+.leftColumn, .rightColumn, .sideNav, footer {  border: 1px solid  #ccc; padding: 1.25em;  }
 .leftColumn, .sideNav { margin-bottom: .5em; }
 
 @media screen and (min-width: 47.5em ) {

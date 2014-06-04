@@ -1,5 +1,7 @@
 #Simple Responsive Layouts
 
+**Update: ** Footer section added to examples.
+
 See examples in the [demo](http://johnstonianera.com/demos/simpleResponsiveLayouts/)
 
 Repository of simple responsive layouts.
