@@ -1,6 +1,8 @@
 #Simple Responsive Layouts
 
-**Update:** Footer section added to examples.
+**Update:** Navigation section added to examples.
+
+**Oldder Update:** Footer section added to examples.
 
 See examples in the [demo](http://johnstonianera.com/demos/simpleResponsiveLayouts/)
 
