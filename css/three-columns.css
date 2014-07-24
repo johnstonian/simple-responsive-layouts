@@ -1,0 +1,95 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body { margin: 0 auto; }
+
+footer, header { position: relative; clear: both; }
+
+.left-column, .right-column, .side-nav, footer, header {  border: 1px solid  #ccc; padding: 1.25em; margin: .5em; }
+
+.nav {
+  list-style: none;
+  margin-left: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.nav > li,
+.nav > li > a {
+  display: inline-block;
+  *display: inline-block;
+  zoom: 1;
+}
+
+.inline-items {
+  margin-top: 0;
+}
+
+.inline-items li {
+  margin-left: 0;
+  border-left: 1px solid black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.inline-items li:first-child {
+  margin-left: 0;
+  border: none;
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+.inline-items li:last-child {
+  padding-right: 0;
+}
+
+ 
+/* MEDIA QUERIES */
+@media screen and (min-width: 47.5em ) {
+  .side-nav { width: auto; }
+
+  .columns-container { 
+    width: 100%;
+    float: left;
+  }
+
+  .left-column { 
+    margin-right: 20em;
+    float: left;
+  }
+
+  .right-column { 
+    width: 18.75em;
+    margin-left: -19.3em;
+    position: relative;
+    float: left;
+  }
+	
+}
+
+@media screen and ( min-width: 62.5em ) {
+
+  .side-nav {
+    width: 9.5em;
+    margin-right: -10.75em;
+    float: left;
+  }
+
+  .left-column {
+    margin-left: 10.7em;
+  }
+
+  .nav > li,
+  .nav > li > a {
+    display: block;
+    *display: block;
+    zoom: 1;
+  }
+
+  .inline-items li { padding-left: 0; border: none; }
+
+}
