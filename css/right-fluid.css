@@ -59,13 +59,11 @@ footer, header { position: relative; clear: both; }
   .left-column { 
     width: 18.75em;
     margin-right: -19.3em;
-    position: relative;
     float: left;
   }
 
 	.right-column { 
     margin-left: 20em;
-    margin-right: .5em;
     float: left;
   }   
 }
