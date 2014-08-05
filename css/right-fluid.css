@@ -52,7 +52,6 @@ footer, header { position: relative; clear: both; }
 @media screen and (min-width: 47.5em ) {
 
 	.columns-container { 
-		width: 100%;
 		float: left;
 	}
 

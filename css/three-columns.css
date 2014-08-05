@@ -53,7 +53,6 @@ footer, header { position: relative; clear: both; }
   .side-nav { width: auto; }
 
   .columns-container { 
-    width: 100%;
     float: left;
   }
 
