@@ -1,8 +1,10 @@
 #Simple Responsive Layouts
 
-**Update:** Refactored CSS to keep all elements in the document flow. No more absolute positioning! Added html5shiv.js to allow for stying of header and footer HTML element in IE8 and below.
+**Update:** Refactored CSS to keep all elements in the document flow. No more absolute positioning! Added html5shiv.js to allow for stying of header and footer HTML elements in IE8 and below.
 
-See examples in the [demo](http://johnstonianera.com/demos/simpleResponsiveLayouts/)
+See examples in the [demo](http://johnstonianera.com/demos/simpleResponsiveLayouts-redux/)
+
+A new article about revamping the code: <http://www.johnstonianera.com/building-responsive-layouts-redux/> 
 
 Accompanying article about building responsive layouts: <http://www.johnstonianera.com/responsive-two-column-layout/>
 
